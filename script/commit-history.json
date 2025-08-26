@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Juan Pablo",
+    "commit": {
+      "date": "2025-08-26T14:10:29.000Z",
+      "message": "feat: Convierte un num que no es multiplo de 3 o 5",
+      "url": "https://github.com/Jpriveram/TDDfizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 13,
+      "deletions": 0,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
