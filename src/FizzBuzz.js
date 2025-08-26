@@ -1,10 +1,13 @@
 
 function convertirFizzBuzz(num){
-    if(num % 3 == 0){
+    if(num % 3 === 0){
         return "Fizz";
-    }else{
-        return num.toString();
     }
+    if(num % 5 === 0){
+        return "Buzz";
+    }
+        return num.toString();
+    
     
   }
 export default convertirFizzBuzz;  
