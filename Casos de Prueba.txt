@@ -1,5 +1,5 @@
 - convertirFizzBuzz(n)
-    - Num no multiplo de 3 o 5. ejm 1 -> 1
+    - Num no multiplo de 3 o 5. ejm 1 -> 1 (completed)
     - Num multiplo de 3. ejm 3 -> fizz
     - Num multiplo de 5. ejm 5 -> buzz
     - Num multiplo de 3 y 5. ejm 15 -> fizzbuzz

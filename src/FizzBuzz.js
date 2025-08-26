@@ -1,5 +1,10 @@
 
 function convertirFizzBuzz(num){
-    return num.toString();
+    if(num == 3){
+        return "Fizz";
+    }else{
+        return num.toString();
+    }
+    
   }
 export default convertirFizzBuzz;  
