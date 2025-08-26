@@ -1,6 +1,6 @@
 
 function convertirFizzBuzz(num){
-    if(num == 3){
+    if(num % 3 == 0){
         return "Fizz";
     }else{
         return num.toString();
