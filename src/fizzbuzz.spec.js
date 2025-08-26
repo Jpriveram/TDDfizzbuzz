@@ -20,5 +20,9 @@ describe("FizzBuzz", () => {
   it("deberia convertir un numero 5 a Buzz  ", () => {
     expect(convertirFizzBuzz(5)).toEqual("Buzz");
   });
+
+  it("deberia convertir un numero 5 a Buzz  ", () => {
+    expect(convertirFizzBuzz(10)).toEqual("Buzz");
+  });
 });
 
