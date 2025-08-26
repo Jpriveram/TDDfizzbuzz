@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "d7f49d03889725c6cd692597a6bb45be7acae7d4",
     "author": "Juan Pablo",
     "commit": {
       "date": "2025-08-26T14:10:29.000Z",
       "message": "feat: Convierte un num que no es multiplo de 3 o 5",
-      "url": "https://github.com/Jpriveram/TDDfizzbuzz/commit/HEAD"
+      "url": "https://github.com/Jpriveram/TDDfizzbuzz/commit/d7f49d03889725c6cd692597a6bb45be7acae7d4"
     },
     "stats": {
       "total": 13,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Juan Pablo",
+    "commit": {
+      "date": "2025-08-26T14:14:42.000Z",
+      "message": "feat: Convierte cualquier numero que no sea multiplo de 3 o 5",
+      "url": "https://github.com/Jpriveram/TDDfizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 6,
+      "deletions": 2,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }
