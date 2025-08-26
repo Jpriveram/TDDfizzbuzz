@@ -95,12 +95,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "60fa3e43f20adf1cb1a9da44da57f071b7a93c8a",
     "author": "Juan Pablo",
     "commit": {
       "date": "2025-08-26T14:24:00.000Z",
       "message": "feat: convierte multiplos de 5 a Buzz",
-      "url": "https://github.com/Jpriveram/TDDfizzbuzz/commit/HEAD"
+      "url": "https://github.com/Jpriveram/TDDfizzbuzz/commit/60fa3e43f20adf1cb1a9da44da57f071b7a93c8a"
     },
     "stats": {
       "total": 6,
@@ -110,6 +110,25 @@
     },
     "coverage": 100,
     "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Juan Pablo",
+    "commit": {
+      "date": "2025-08-26T14:28:17.000Z",
+      "message": "feat: Convierte el 15 a FizzBuzz",
+      "url": "https://github.com/Jpriveram/TDDfizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 11,
+      "deletions": 2,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
   }
