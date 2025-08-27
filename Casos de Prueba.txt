@@ -2,6 +2,6 @@
     - Num no multiplo de 3 o 5. ejm 1 -> 1 (completed)
     - Num multiplo de 3. ejm 3 -> fizz (completed)
     - Num multiplo de 5. ejm 5 -> buzz (completed)
-    - Num multiplo de 3 y 5. ejm 15 -> fizzbuzz
+    - Num multiplo de 3 y 5. ejm 15 -> fizzbuzz (completed)
 - generarCadenaFizzBuzz(4)    
     - Dado un num por usario : genera toda la secuencia fizzbuzz hasta el num. ejm 4 -> '1 ,2 ,fizz ,4'

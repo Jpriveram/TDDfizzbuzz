@@ -1,4 +1,4 @@
- import convertirFizzBuzz from "./FizzBuzz.js";
+ import {convertirFizzBuzz,generarCadena} from "./FizzBuzz.js";
 
 describe("FizzBuzz", () => {
   it("deberia convertir un numero que no es multiplo de 3 ni 5 ", () => {
@@ -31,6 +31,10 @@ describe("FizzBuzz", () => {
 
   it("deberia convertir cualquier numero multiplo de 3 y 5 a FizzBuzz  ", () => {
     expect(convertirFizzBuzz(30)).toEqual("FizzBuzz");
+  });
+
+  it("deberia imprimir una cadena de 1 a num", () => {
+    expect(generarCadena(5)).toEqual("1,2,3,4,5");
   });
 });
 

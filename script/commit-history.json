@@ -133,12 +133,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "8e1ae8dac99ee2c5b6b3abceddc072403aeb95c7",
     "author": "Juan Pablo",
     "commit": {
       "date": "2025-08-27T18:08:15.000Z",
       "message": "feat: Convierte numero multiplo de 3 y 5 a FizzBuzz",
-      "url": "https://github.com/Jpriveram/TDDfizzbuzz/commit/HEAD"
+      "url": "https://github.com/Jpriveram/TDDfizzbuzz/commit/8e1ae8dac99ee2c5b6b3abceddc072403aeb95c7"
     },
     "stats": {
       "total": 6,
@@ -148,6 +148,25 @@
     },
     "coverage": 100,
     "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Juan Pablo",
+    "commit": {
+      "date": "2025-08-27T18:29:07.000Z",
+      "message": "feat: Generamos una cadena de 1 a num",
+      "url": "https://github.com/Jpriveram/TDDfizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 23,
+      "additions": 17,
+      "deletions": 6,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 10,
     "failed_tests": 0,
     "conclusion": "success"
   }
