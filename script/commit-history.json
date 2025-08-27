@@ -171,17 +171,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "c65f802453df5bc525f6fac5210d367b5cca91b0",
     "author": "Juan Pablo",
     "commit": {
       "date": "2025-08-27T20:07:06.000Z",
       "message": "feat: Se genera la cadena de 1 a num con FizzBuzz",
-      "url": "https://github.com/Jpriveram/TDDfizzbuzz/commit/HEAD"
+      "url": "https://github.com/Jpriveram/TDDfizzbuzz/commit/c65f802453df5bc525f6fac5210d367b5cca91b0"
     },
     "stats": {
       "total": 6,
       "additions": 3,
       "deletions": 3,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Juan Pablo",
+    "commit": {
+      "date": "2025-08-27T21:10:59.000Z",
+      "message": "feat: Se implemento la pagina web para el uso de la logica",
+      "url": "https://github.com/Jpriveram/TDDfizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 27,
+      "additions": 11,
+      "deletions": 16,
       "date": "2025-08-27"
     },
     "coverage": 100,
