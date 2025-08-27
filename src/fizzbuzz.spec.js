@@ -33,8 +33,8 @@ describe("FizzBuzz", () => {
     expect(convertirFizzBuzz(30)).toEqual("FizzBuzz");
   });
 
-  it("deberia imprimir una cadena de 1 a num", () => {
-    expect(generarCadena(5)).toEqual("1,2,3,4,5");
+  it("deberia imprimir una cadena de 1 a num con FizzBuzz", () => {
+    expect(generarCadena(5)).toEqual("1,2,Fizz,4,Buzz");
   });
 });
 

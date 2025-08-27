@@ -152,17 +152,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "68446e8dd61f771860927ed15258c69310abb821",
     "author": "Juan Pablo",
     "commit": {
       "date": "2025-08-27T18:29:07.000Z",
       "message": "feat: Generamos una cadena de 1 a num",
-      "url": "https://github.com/Jpriveram/TDDfizzbuzz/commit/HEAD"
+      "url": "https://github.com/Jpriveram/TDDfizzbuzz/commit/68446e8dd61f771860927ed15258c69310abb821"
     },
     "stats": {
       "total": 23,
       "additions": 17,
       "deletions": 6,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Juan Pablo",
+    "commit": {
+      "date": "2025-08-27T20:07:06.000Z",
+      "message": "feat: Se genera la cadena de 1 a num con FizzBuzz",
+      "url": "https://github.com/Jpriveram/TDDfizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 3,
+      "deletions": 3,
       "date": "2025-08-27"
     },
     "coverage": 100,

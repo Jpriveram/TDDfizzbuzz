@@ -16,7 +16,7 @@ function convertirFizzBuzz(num){
 function generarCadena(num){
     let cadena = "";
     for(let i = 1; i <= num; i++){
-        cadena += i;
+        cadena += convertirFizzBuzz(i);
         if(i !== num)
         cadena += ","
     }
